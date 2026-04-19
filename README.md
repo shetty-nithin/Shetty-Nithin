@@ -1,26 +1,8 @@
 <!-- <h1 align="center">Hi👋</h1> -->
 
 <p align="center"> <img src="developer.gif" alt="developer"/> </p> 
-
-- 🏢 I'm currently working at __Alstom__
-- 🔭 __5pm-9am__ : I'm working on my dreams
-- 🌱 I’m currently learning __Software Development__
-- 👯 I’m looking to collaborate with people with __dreams__
-
-
 </br>
 
-### About Me :wave:
-```javascript
-    const Name = 'Nithin Shetty';
-    let Interests = ['Coding','Coding','Coding','Coding','Coding', ... ];
-    
-    let try_again = (result) => {
-        if(result === "success") return;
-        try_again(result);
-    }
-    // with never ending call stack memory
-```
 <br/>
     
 <img style="padding-right: 10px" src="https://cdn-icons-png.flaticon.com/512/1239/1239682.png" width="25" align="left"/><b>```Lets Connect```</b>
